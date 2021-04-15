@@ -1,5 +1,0 @@
-package com.brendan.gamereview.repositories;
-
-public interface ReviewRepository {
-
-}

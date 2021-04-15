@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\bbarn\OneDrive\Documents\Java\GameReviews\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2186294048.index
-\gamereview\src\main\java
