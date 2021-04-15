@@ -1,0 +1,5 @@
+package com.brendan.gamereview;
+
+public class ServletInitializer {
+
+}

@@ -1,0 +1,5 @@
+package com.brendan.gamereview.services;
+
+public class GameService {
+
+}

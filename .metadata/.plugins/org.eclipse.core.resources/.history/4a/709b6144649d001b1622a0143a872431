@@ -1,0 +1,5 @@
+package com.brendan.gamereview.models;
+
+public class game {
+
+}
